@@ -1,0 +1,28 @@
+﻿  ICA9.c
+C:\Users\cleek\Desktop\ICA9\ICA9.c(20,18): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\cleek\Desktop\ICA9\ICA9.c(21,47): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+C:\Users\cleek\Desktop\ICA9\ICA9.c(25,100): warning C4133: '=': incompatible types - from 'node *' to 'node *'
+C:\Users\cleek\Desktop\ICA9\ICA9.c(26,26): warning C4133: '=': incompatible types - from 'node *' to 'node *'
+C:\Users\cleek\Desktop\ICA9\ICA9.c(37,53): warning C4133: '=': incompatible types - from 'node *' to 'node *'
+C:\Users\cleek\Desktop\ICA9\ICA9.c(46,21): warning C4133: '=': incompatible types - from 'node *' to 'node *'
+C:\Users\cleek\Desktop\ICA9\ICA9.c(48,26): warning C4133: '=': incompatible types - from 'node *' to 'node *'
+C:\Users\cleek\Desktop\ICA9\ICA9.c(58,54): warning C4133: '=': incompatible types - from 'node *' to 'node *'
+C:\Users\cleek\Desktop\ICA9\ICA9.c(67,21): warning C4133: '=': incompatible types - from 'node *' to 'node *'
+C:\Users\cleek\Desktop\ICA9\ICA9.c(69,26): warning C4133: '=': incompatible types - from 'node *' to 'node *'
+C:\Users\cleek\Desktop\ICA9\ICA9.c(78,50): warning C4047: '!=': 'int' differs in levels of indirection from 'void *'
+C:\Users\cleek\Desktop\ICA9\ICA9.c(80,27): warning C4133: '=': incompatible types - from 'node *' to 'node *'
+C:\Users\cleek\Desktop\ICA9\ICA9.c(85,27): warning C4133: '=': incompatible types - from 'node *' to 'node *'
+C:\Users\cleek\Desktop\ICA9\ICA9.c(88,24): warning C4047: '==': 'int' differs in levels of indirection from 'void *'
+  Main.c
+C:\Users\cleek\Desktop\ICA9\ICA9.c(94,26): warning C4133: '=': incompatible types - from 'node *' to 'node *'
+C:\Users\cleek\Desktop\ICA9\Main.c(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\cleek\Desktop\ICA9\Main.c(32,27): warning C4047: 'function': 'int' differs in levels of indirection from 'void *'
+C:\Users\cleek\Desktop\ICA9\Main.c(32,27): warning C4024: 'displayNode': different types for formal and actual parameter 2
+C:\Users\cleek\Desktop\ICA9\Main.c(36,27): warning C4047: 'function': 'int' differs in levels of indirection from 'void *'
+C:\Users\cleek\Desktop\ICA9\Main.c(36,27): warning C4024: 'displayNode': different types for formal and actual parameter 2
+C:\Users\cleek\Desktop\ICA9\Main.c(40,33): warning C4474: 'scanf_s' : too many arguments passed for format string
+C:\Users\cleek\Desktop\ICA9\Main.c(40,33): message : placeholders and their parameters expect 1 variadic arguments, but 2 were provided
+C:\Users\cleek\Desktop\ICA9\Main.c(45,33): warning C4474: 'scanf_s' : too many arguments passed for format string
+  Generating Code...
+C:\Users\cleek\Desktop\ICA9\Main.c(45,33): message : placeholders and their parameters expect 1 variadic arguments, but 2 were provided
+  ICA9.vcxproj -> C:\Users\cleek\Desktop\ICA9\Debug\ICA9.exe
